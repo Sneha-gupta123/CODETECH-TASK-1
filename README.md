@@ -1,0 +1,5 @@
+Name:SNEHA GUPTA
+Company:CODETECH IT SOLUTION
+ID:CT08DS10047
+Domain:PYTHON PROGRAMMNG
+Duration:November to December 2024
